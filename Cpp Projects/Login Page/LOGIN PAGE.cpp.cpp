@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <math.h>
+
 using namespace std;
 
 const int MAX_USERS = 100;
