@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
         cout << "**" << endl;
     }
 
-    // part 2
+    // part B
 
     for (int i = 0; i < 1; i++)
     {
@@ -31,7 +31,7 @@ int main(int argc, char const *argv[])
     }
     cout << endl;
 
-    // part 3
+    // part C
     for (int i = 0; i < 1; i++)
     {
         for (int j = 0; j <= 6; j++)
