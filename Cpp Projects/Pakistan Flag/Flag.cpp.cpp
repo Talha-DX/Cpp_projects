@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 
     cout << "JASHNY AZADI MUBARIK ALL PAKISTAN" << endl;
 
-    // Part 1
+    // Part A
 
     for (int i = 0; i < 3; i++)
     {
