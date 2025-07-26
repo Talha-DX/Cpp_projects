@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int units;  // Initialize units to avoid uninitialized variable issue
+    int units;  
     float input , result;
 
     while (units != 5) {
@@ -32,7 +32,7 @@ int main() {
                 cin >> input;
                 result = (input * 9.0 / 5.0) + 32;
                 cout << "After converting Celsius, Fahrenheit will be = " <<result << endl;
-                cout << "__________________________________________________" << endl; // <-- semicolon added here
+                cout << "__________________________________________________" << endl;
                 break;
 
             case 3:
