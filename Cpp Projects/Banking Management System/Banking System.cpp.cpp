@@ -3,7 +3,8 @@
 
 using namespace std;
 
-struct Bank{
+struct Bank
+{
 
 	char name[50];
 	int A_pas;
