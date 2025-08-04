@@ -33,10 +33,12 @@ void Acc(Bank &b1, bool &f)
     cout<<"---------------------------------"<<endl;
 }
 
-void Dep(Bank &b1 ,bool &f){
+void Dep(Bank &b1 ,bool &f)
+{
 	int d, s=0;
     b1.balance;
-    if(f){
+    if(f)
+    {
 	cout<<"Your current account balance is: "<<b1.balance<<endl;
 	
 	cout<<"How much money you want to Deposit: "<<endl;
@@ -48,13 +50,15 @@ void Dep(Bank &b1 ,bool &f){
 	
 	cout<<"<--Money Succesfully Deposit in your Account-->"<<endl;
 }
-else{
+else
+    {
 	cout<<"You dont have any account"<<endl;
 }
     cout<<"---------------------------------"<<endl;
 }
 
-void With(Bank &b1 ,bool &f){
+void With(Bank &b1 ,bool &f)
+{
 int d, s=0;
     
     if(f){
