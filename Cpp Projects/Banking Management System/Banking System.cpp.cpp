@@ -11,7 +11,8 @@ struct Bank
 	float balance;
 };
 
-void Acc(Bank &b1, bool &f){
+void Acc(Bank &b1, bool &f)
+{
 	if(!f){
 	cout<<"Enter Your name:"<<endl;
 	cin>>b1.name;
