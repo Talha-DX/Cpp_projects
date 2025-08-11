@@ -7,6 +7,7 @@ struct Bank
 {
 
 	char name[50];
+
 	int A_pas;
 	float balance;
 };
