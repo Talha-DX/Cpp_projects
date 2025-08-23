@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 
+
 struct stud
 {
 	string name;
