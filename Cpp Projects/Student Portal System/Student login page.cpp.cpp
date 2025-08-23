@@ -2,7 +2,8 @@
 #include<string>
 using namespace std;
 
-struct stud{
+struct stud
+{
 	string name;
 	int password;
 };
