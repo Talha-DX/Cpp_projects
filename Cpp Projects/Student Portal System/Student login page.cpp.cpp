@@ -7,7 +7,6 @@ struct stud{
 	int password;
 };
 
-
 int main(){
 	
     cout << "                                ===================================================                           " << endl;
