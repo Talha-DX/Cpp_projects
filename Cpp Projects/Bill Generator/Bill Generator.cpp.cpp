@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 double calculateBill(int units)
 {
     double energyCharge, meterCharge, netBill, vat, totalBill;
