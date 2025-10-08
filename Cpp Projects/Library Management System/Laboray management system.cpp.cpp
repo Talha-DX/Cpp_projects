@@ -2,8 +2,7 @@
 #include <string>
 using namespace std;
 
-struct Book 
-{
+struct Book {
     int id;
     string title;
     string author;
