@@ -4,6 +4,7 @@ using namespace std;
 double calculateBill(int units){
     double energyCharge, meterCharge, netBill, vat, totalBill;
 
+
     if (units <= 300)
     {
         energyCharge = 27.14;
